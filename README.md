@@ -6,6 +6,7 @@ Java solutions for Data Structures and Algorithms problems with time and space c
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0039-combination-sum) |
 | [0455-assign-cookies](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
@@ -19,4 +20,8 @@ Java solutions for Data Structures and Algorithms problems with time and space c
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0455-assign-cookies) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
