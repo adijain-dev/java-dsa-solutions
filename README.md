@@ -32,4 +32,12 @@ Java solutions for Data Structures and Algorithms problems with time and space c
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0090-subsets-ii) |
+## Math
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0060-permutation-sequence) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
