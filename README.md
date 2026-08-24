@@ -27,6 +27,7 @@ Java solutions for Data Structures and Algorithms problems with time and space c
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0046-permutations) |
@@ -48,4 +49,12 @@ Java solutions for Data Structures and Algorithms problems with time and space c
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0051-n-queens) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## String
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
