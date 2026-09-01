@@ -35,6 +35,7 @@ Java solutions for Data Structures and Algorithms problems with time and space c
 | [0051-n-queens](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0090-subsets-ii) |
+| [0282-expression-add-operators](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0282-expression-add-operators) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -43,6 +44,7 @@ Java solutions for Data Structures and Algorithms problems with time and space c
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0060-permutation-sequence) |
+| [0282-expression-add-operators](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0282-expression-add-operators) |
 ## Recursion
 |  |
 | ------- |
@@ -60,6 +62,7 @@ Java solutions for Data Structures and Algorithms problems with time and space c
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0079-word-search) |
+| [0282-expression-add-operators](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0282-expression-add-operators) |
 ## Depth-First Search
 |  |
 | ------- |
