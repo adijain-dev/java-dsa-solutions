@@ -13,6 +13,7 @@ Java solutions for Data Structures and Algorithms problems with time and space c
 | [0079-word-search](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0090-subsets-ii) |
 | [0455-assign-cookies](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0455-assign-cookies) |
+| [0503-next-greater-element-ii](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0503-next-greater-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,4 +72,12 @@ Java solutions for Data Structures and Algorithms problems with time and space c
 |  |
 | ------- |
 | [0079-word-search](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0079-word-search) |
+## Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
