@@ -14,6 +14,7 @@ Java solutions for Data Structures and Algorithms problems with time and space c
 | [0090-subsets-ii](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0090-subsets-ii) |
 | [0455-assign-cookies](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0735-asteroid-collision) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,8 +77,13 @@ Java solutions for Data Structures and Algorithms problems with time and space c
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0503-next-greater-element-ii) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
