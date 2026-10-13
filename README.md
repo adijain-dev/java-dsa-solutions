@@ -15,6 +15,7 @@ Java solutions for Data Structures and Algorithms problems with time and space c
 | [0455-assign-cookies](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0735-asteroid-collision) |
+| [0907-sum-of-subarray-minimums](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,12 +79,18 @@ Java solutions for Data Structures and Algorithms problems with time and space c
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0735-asteroid-collision) |
+| [0907-sum-of-subarray-minimums](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0503-next-greater-element-ii) |
+| [0907-sum-of-subarray-minimums](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0735-asteroid-collision) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0907-sum-of-subarray-minimums](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0907-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
