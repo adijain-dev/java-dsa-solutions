@@ -3,34 +3,43 @@ import java.util.Stack;
 
 class Solution {
     public String removeKdigits(String num, int k) {
-        Stack<Character> st = new Stack<>();
+        Stack<Character> stack = new Stack<>();
 
         for (char digit : num.toCharArray()) {
-            while (k > 0 && !st.isEmpty()
-                    && st.peek() > digit) {
-                st.pop();
+
+            // Remove larger digits to get the smallest number
+            while (k > 0 && !stack.isEmpty()
+                    && stack.peek() > digit) {
+                stack.pop();
                 k--;
             }
-            st.push(digit);
+
+            stack.push(digit);
         }
 
+        // If removals are still left, remove digits from the end
         while (k > 0) {
-            st.pop();
+            stack.pop();
             k--;
         }
 
-        String res = "";
+        // Build the result string
+        StringBuilder result = new StringBuilder();
 
-        while (!st.isEmpty()) {
-            res = st.peek() + res;
-            st.pop();
+        for (char digit : stack) {
+            result.append(digit);
         }
 
         // Remove leading zeros
-        while (res.length() > 0 && res.charAt(0) == '0') {
-            res = res.substring(1);
+        int index = 0;
+        while (index < result.length()
+                && result.charAt(index) == '0') {
+            index++;
         }
 
-        return res.isEmpty() ? "0" : res;
+        String answer = result.substring(index);
+
+        // Return "0" if the result is empty
+        return answer.isEmpty() ? "0" : answer;
     }
 }
