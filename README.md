@@ -12,6 +12,7 @@ Java solutions for Data Structures and Algorithms problems with time and space c
 | [0051-n-queens](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0090-subsets-ii) |
 | [0455-assign-cookies](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0503-next-greater-element-ii) |
@@ -76,10 +77,12 @@ Java solutions for Data Structures and Algorithms problems with time and space c
 |  |
 | ------- |
 | [0079-word-search](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0085-maximal-rectangle) |
 ## Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -88,6 +91,7 @@ Java solutions for Data Structures and Algorithms problems with time and space c
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/adijain-dev/java-dsa-solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -98,6 +102,7 @@ Java solutions for Data Structures and Algorithms problems with time and space c
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0085-maximal-rectangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Range Minimum/Maximum Query
 |  |
