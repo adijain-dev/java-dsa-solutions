@@ -14,6 +14,7 @@ Java solutions for Data Structures and Algorithms problems with time and space c
 | [0084-largest-rectangle-in-histogram](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0090-subsets-ii) |
+| [0239-sliding-window-maximum](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0735-asteroid-collision) |
@@ -112,4 +113,21 @@ Java solutions for Data Structures and Algorithms problems with time and space c
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0239-sliding-window-maximum) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
