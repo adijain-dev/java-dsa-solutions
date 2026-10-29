@@ -65,6 +65,7 @@ Java solutions for Data Structures and Algorithms problems with time and space c
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0146-lru-cache](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0146-lru-cache) |
 ## String
 |  |
 | ------- |
@@ -130,4 +131,16 @@ Java solutions for Data Structures and Algorithms problems with time and space c
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0239-sliding-window-maximum) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/adijain-dev/java-dsa-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
